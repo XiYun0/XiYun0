@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-A student majoring in control engineering is switching to computer💻
+I am a student of control engineering:point_left:, and I am switching to computer💻
 
 - 🧐 Interested in full stack. Recent focus on backend.
 - 🌱 currently learning Java
