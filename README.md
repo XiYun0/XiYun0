@@ -4,7 +4,7 @@ I am a student of control engineering ,and I am turning to computer💻
 
 - 🧐 Interested in full stack. Recent focus on backend.
 - 🌱 currently learning Java
-- 🎓 a master student in the School of Automation, Nanjing University of Information Science and Technology
+- 🎓 A master student in the School of Automation, Nanjing University of Information Science and Technology
 
 
 
