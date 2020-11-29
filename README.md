@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a student of Control Engineering:point_left:, and I am switching to computer💻
+I am a student of control engineering ,and I am turning to computer💻
 
 - 🧐 Interested in full stack. Recent focus on backend.
 - 🌱 currently learning Java
