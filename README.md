@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 I am a student of control engineering:point_left:, and I am switching to computer💻
 
